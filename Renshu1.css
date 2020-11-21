@@ -1,0 +1,14 @@
+*{
+    font-size: 30px;
+}
+#foo{
+    color: red;
+}
+#bar{
+    color: blue;
+}
+.box1{
+    width: 400px;
+    border: 2px solid;
+    border-color: aqua;
+}
